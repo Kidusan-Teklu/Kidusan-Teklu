@@ -3,7 +3,8 @@
 <h2>👨‍💻  web  Development Projects:</h2>
 
 - <b>online learning website</b>
- - <b>working on HOtel website</b>
+ - <b>working on Hotel website</b>
+   ->https://github.com/Kidusan-Teklu/Assela-Hotel
 
 <h2> 🤳 Connect with me:</h2>
 
