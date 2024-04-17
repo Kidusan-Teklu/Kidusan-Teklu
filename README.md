@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kidusan! <br/><a href="https://github.com/kidusdt">Programmer</a>, <a href="https://www.linkedin.com/in//kidusan-teklu-3013332aa/">Web Developer</a>, <a href="https://www.instagram.com/kidus_dt/">social media infulencer </a></h1>
+<h1>Hi, I'm Kidusan! <br/><a href="https://github.com/kidusdt">Programmer</a>, <a href="https://www.linkedin.com/in//kidusan-teklu-3013332aa/">Web Developer</a>, <a href="https://www.instagram.com/kidus_dt/">social media influencer </a></h1>
 
 <h2>👨‍💻  web  Development Projects:</h2>
 
