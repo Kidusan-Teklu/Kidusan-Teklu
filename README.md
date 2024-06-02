@@ -3,9 +3,10 @@
 <h2>👨‍💻  web  Development Projects:</h2>
 
 - <b>online learning website</b>
- - <b>working on Hotel website</b>
+ - <b>worked on Hotel website</b>
    ->https://github.com/Kidusan-Teklu/Assela-Hotel
-
+- <b>working on leapyear tester website</b> -https://github.com/Kidusan-Teklu/leapo
+- <b>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="kidusdt | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
