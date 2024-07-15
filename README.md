@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kidusan! <br/><a href="https://github.com/kidusdt">Programmer</a>, <a href="https://www.linkedin.com/in//kidusan-teklu-3013332aa/">Web Developer</a>, <a href="https://www.instagram.com/kidus_dt/">social media influencer </a></h1>
+<h1>Hi, I'm Kidusan! <br/><a href="https://github.com/kidusdt">Programmer</a>, <a href="https://www.linkedin.com/in//kidusan-teklu/">Web Developer</a>, <a href="https://www.instagram.com/kidus_dt/">social media influencer </a></h1>
 
 <h2>👨‍💻  web  Development Projects:</h2>
 
@@ -17,7 +17,7 @@
 [twitter]:https://twitter.com/kidusdt
 [facebook]:https://www.facebook.com/kedusan.teklu
 [instagram]: https://www.instagram.com/kidus_dt/
-[linkedin]: https://www.linkedin.com/in/kidusan-teklu-3013332aa/
+[linkedin]: https://www.linkedin.com/in/kidusan-teklu/
 
 <!--
 **kidusdt/kidusdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN stack and ML
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
